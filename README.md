@@ -1,2 +1,2 @@
 # ProgresBelajarku
-Repositori ini berisi [engalaman belajarku di dicoding
+Repositori ini berisi pengalaman belajarku di dicoding
